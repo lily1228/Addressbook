@@ -4,6 +4,7 @@ require "rspec"
 class Fibonacci
 
 
+
 def output(n)
         if n <= 1 then
           return n
